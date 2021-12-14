@@ -1,4 +1,4 @@
-import './FieldBox.css';
+import './fieldBox.css';
 
 function FieldBox(props) {
   return (
