@@ -6,7 +6,7 @@ import Input from "./components/ui/input-field/Input";
 import FieldBox from "./components/ui/field-box/FieldBox";
 import Select from "./components/ui/select/Select";
 import FileUpload from "./components/ui/file-upload/File-upload";
-import Label from "./components/ui/Label/Label";
+import Label from "./components/ui/label/Label";
 import Textarea from "./components/ui/textarea/Textarea";
 import { useForm } from "react-hook-form";
 
