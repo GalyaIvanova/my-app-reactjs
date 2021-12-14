@@ -1,0 +1,16 @@
+.labels{
+    text-align: left;
+    background-color: blueviolet;
+    /* width: 60%; */
+    position: relative;
+    top:-20px;
+    left: 20px;
+    /* height: 42px; */
+    border-radius: 2px;
+    background:  linear-gradient(to bottom, #34d9bd, #2bb8b8);
+    padding: 12px;
+    color: white;
+    
+    font-weight: bold;
+    width: fit-content;
+}
